@@ -1,4 +1,0 @@
-﻿  source.c
-C:\Users\123\source\repos\H.W.2\H.W.2\source.c(14,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\123\source\repos\H.W.2\H.W.2\source.c(17,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-  H.W.2.vcxproj -> C:\Users\123\source\repos\H.W.2\x64\Debug\H.W.2.exe
